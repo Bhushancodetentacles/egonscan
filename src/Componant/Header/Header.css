@@ -1,0 +1,18 @@
+.logo{
+    width: 260px;
+}
+button.iekbcc0.iekbcc9.ju367v73.ju367v7o.ju367v9c.ju367vn.ju367vec.ju367vex.ju367v11.ju367v1c.ju367v2b.ju367v8o._12cbo8i3.ju367v8m._12cbo8i4._12cbo8i6 {
+    font-size: 12px !important;
+}
+[data-rk] .ju367v9c {
+    background: linear-gradient(90deg, rgba(234,102,21,1) 0%, rgba(50,61,204,1) 100%) !important;
+}
+button:focus, button:focus-visible {
+    outline: none !important;
+}
+@media all and (max-width: 768px) {
+    
+   .logo {
+     width: 180px;
+   }
+   }

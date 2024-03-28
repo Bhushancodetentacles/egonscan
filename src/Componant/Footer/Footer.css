@@ -1,0 +1,6 @@
+.footerlogo{
+    font-size: 14px !important;
+    background: linear-gradient(90deg, rgba(234,102,21,1) 0%, rgba(50,61,204,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

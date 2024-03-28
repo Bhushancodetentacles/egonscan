@@ -1,0 +1,36 @@
+.swapbox{
+    width: 30%;
+    margin: auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  
+}
+.countdown li span {
+    display: block;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.swapscetion{
+    background:linear-gradient(177deg, rgba(255,255,255,1) 0%, rgb(255 255 255 / 57%) 100%), url(/5968949.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 57pc;
+}
+
+:focus-visible {
+  outline: none;
+}
+input {
+  border: 1px solid #efefef;
+  border-radius: 4px;
+  box-shadow: rgb(184 184 184 / 4%) 0px 7px 29px 0px;
+  margin-bottom: 23px;
+}
+input::placeholder {
+ 
+  font-size: 12px;
+  font-weight: 400;
+}
+.heading{
+  font-size: 28px;
+}
